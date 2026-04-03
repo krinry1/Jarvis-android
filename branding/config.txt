@@ -6,13 +6,13 @@
 # =====================================================
 
 # App display name (shown on phone home screen)
-APP_NAME=Jarvis
+APP_NAME=krinry J
 
 # Application package name (unique identifier)
-PACKAGE_NAME=dev.krinry.jarvis
+PACKAGE_NAME=com.krinry.jarvisai
 
 # Version shown to users (e.g., 1.0, 2.0-beta, 1.5.0)
-VERSION_NAME=1.0
+VERSION_NAME=4.0
 
 # Internal version code (must be integer, increase each release)
 VERSION_CODE=1
